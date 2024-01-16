@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hellou
+
+I am a student studying master in engineering AI and Machinelearning. I like to play games and spend time with my friends.
 
 <!--
 **tacticalNukes/tacticalNukes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
